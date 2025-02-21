@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricardo Servilla</h1>
 <h3 align="center">This is the place where I opensource stuff and break things</h3>
 
--🔭 I’m currently a student learning about:   - Programming 💻   - Data Analysis 📊
+- 🔭 I’m currently a student learning about:   - Programming 💻   - Data Analysis 📊
 
--👯 I’m looking to collaborate on: Projects related to Python, Data Analysis, and beginner-friendly programming tasks
+- 👯 I’m looking to collaborate on: Projects related to Python, Data Analysis, and beginner-friendly programming tasks
 
--🤝 I’m looking for help with: Improving my data analysis skills and learning more about Python
+- 🤝 I’m looking for help with: Improving my data analysis skills and learning more about Python
 
 - 🌱 I’m currently learning **Machine Learning, Excel, SQL, Power BI, Python**
 
