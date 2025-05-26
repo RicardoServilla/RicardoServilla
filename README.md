@@ -25,18 +25,6 @@
 
 ---
 
-### 🛠️ Languages & Tools:
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Networking](https://img.shields.io/badge/Networking-green?logo=cloudflare&logoColor=white)
-
----
-
 ### 📚 Certifications:
 - Mastercard Cybersecurity Job Simulation  
 - Datacom Cybersecurity Job Simulation  
