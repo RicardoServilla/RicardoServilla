@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **ricardoservilla10@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ricardo-servilla](www.linkedin.com/in/ricardo-servilla)
+- 📄 Know about my experiences https://www.linkedin.com/in/ricardo-servilla/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
