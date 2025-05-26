@@ -1,17 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ricardo Servilla</h1>
-<h3 align="center">This is the place where I opensource stuff and break things</h3>
+# Hi 👋, I'm Ricardo Servilla
 
-- 🔭 I’m currently a student learning about:   - Programming 💻   - Data Analysis 📊
+🎯 I’m an international student pursuing an Associate’s Degree in Computer Information Systems – Programming at Schoolcraft College (GPA: 3.44). Passionate about technology, data, and cybersecurity, I use this space to explore open source, share projects, and continuously learn and build.
 
-- 👯 I’m looking to collaborate on: Projects related to Python, Data Analysis, and beginner-friendly programming tasks
+---
 
-- 🤝 I’m looking for help with: Improving my data analysis skills and learning more about Python
+### 🔍 What I'm Focused On:
+- 💻 **Programming:** Python, HTML, CSS, React
+- 📊 **Data Analysis & Visualization:** SQL, Power BI, Excel
+- 🛡️ **Cybersecurity:** Threat analysis, system hardening, OSINT research
+- 🧠 **Machine Learning:** Currently learning models and techniques
 
-- 🌱 I’m currently learning **Machine Learning, Excel, SQL, Power BI, Python**
+---
 
-- 📫 How to reach me **ricardoservilla10@gmail.com**
+### 🤝 I’m Looking to:
+- Collaborate on beginner-friendly projects in **Python**, **data analysis**, and **cybersecurity**
+- Learn more about **software development**, **machine learning**, and **IT project management**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/ricardo-servilla/
+---
+
+### 📫 Let's Connect:
+- 📧 Email: ricardoservilla10@gmail.com  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ricardo-servilla/)  
+- 📄 [View My Resume](https://www.linkedin.com/in/ricardo-servilla/)  
+
+---
+
+### 🛠️ Languages & Tools:
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Networking](https://img.shields.io/badge/Networking-green?logo=cloudflare&logoColor=white)
+
+---
+
+### 📚 Certifications:
+- Mastercard Cybersecurity Job Simulation  
+- Datacom Cybersecurity Job Simulation  
+- Cisco Computer Hardware Basics  
+- IBM Intro to Software Engineering  
+- Microsoft Power BI for Data Science  
+
+---
+
+> “Stay curious, keep learning, and never be afraid to break things.”  
+
 
 
 <h3 align="left">Connect with me:</h3>
