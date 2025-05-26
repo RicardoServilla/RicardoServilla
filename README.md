@@ -32,11 +32,6 @@
 - IBM Intro to Software Engineering  
 - Microsoft Power BI for Data Science  
 
----
-
-> “Stay curious, keep learning, and never be afraid to break things.”  
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
