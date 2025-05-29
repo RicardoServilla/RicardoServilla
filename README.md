@@ -20,8 +20,7 @@
 
 ### 📫 Let's Connect:
 - 📧 Email: ricardoservilla10@gmail.com  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ricardo-servilla/)  
-- 📄 [View My Resume](https://www.linkedin.com/in/ricardo-servilla/)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ricardo-servilla/)   
 
 ---
 
