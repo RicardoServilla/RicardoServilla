@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ricardo Servilla
+# Hi , I'm Ricardo Servilla
 
 🎯 I’m an international student pursuing an Associate’s Degree in Computer Information Systems – Programming at Schoolcraft College (GPA: 3.44). Passionate about technology, data, and cybersecurity, I use this space to explore open source, share projects, and continuously learn and build.
 
